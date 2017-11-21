@@ -1,6 +1,6 @@
 {
   "platform": "PostgreSQL",
-  "version": "9.1",
+  "version": "9.2",
   "words": [
     {
       "word": "ALL"
